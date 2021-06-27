@@ -1,0 +1,25 @@
+@media (max-width: 600px){
+	.flex-menu {
+		flex-direction: column;
+		 align-items: center;
+		 background-color: black;
+    }
+
+	.navbar {
+		flex-direction: column;
+		align-items: center;
+		padding-right: 50px;
+	}
+ 
+   	.navbar-custom {
+   		text-decoration: none;
+   		font-size: 1rem;
+   		letter-spacing: 0.35px;
+   		color:white;
+   	    line-height: 24px;
+   	    padding-left: 10px;
+		   
+ }  
+
+ 
+ 
